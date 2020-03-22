@@ -91,7 +91,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Example" Type="Folder">
-			<Item Name="Test VISA GPS.vi" Type="VI" URL="../nmea/VISA GPS/Test VISA GPS.vi"/>
+			<Item Name="Test VISA GPS.vi" Type="VI" URL="../Test VISA GPS.vi"/>
 		</Item>
 		<Item Name="nmea.lvlib" Type="Library" URL="../nmea/nmea.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
