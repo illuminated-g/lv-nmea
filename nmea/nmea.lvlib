@@ -4,9 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536895527</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Messages" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
 	<Item Name="NMEA Message.lvclass" Type="LVClass" URL="../message/NMEA Message.lvclass"/>
 	<Item Name="nmea.lvclass" Type="LVClass" URL="../nmea/nmea.lvclass"/>
 	<Item Name="VISA GPS.lvclass" Type="LVClass" URL="../VISA GPS/VISA GPS.lvclass"/>
